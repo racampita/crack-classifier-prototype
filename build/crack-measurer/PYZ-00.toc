@@ -1,0 +1,2139 @@
+('C:\\Users\\Renz '
+ 'Campita\\Documents\\DevProjects\\python\\crack-classifier-prototype\\build\\crack-measurer\\PYZ-00.pyz',
+ [('ssl',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ssl.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('ntpath',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\string.py',
+   'PYMODULE'),
+  ('genericpath',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._common',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_common.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\random.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\statistics.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\fractions.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\numbers.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\signal.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\selectors.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\queue.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\runpy.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\secrets.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compression.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\getopt.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\quopri.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\optparse.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\typing.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tty.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\archive_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\token.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\cmd.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ast.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bisect.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\configparser.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\csv.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\struct.py',
+   'PYMODULE'),
+  ('posixpath',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bz2.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('stat',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\stat.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\gettext.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\datetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\base64.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\socket.py',
+   'PYMODULE'),
+  ('os',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\os.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('matplotlib.pyplot',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\pyplot.py',
+   'PYMODULE'),
+  ('matplotlib.patheffects',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\patheffects.py',
+   'PYMODULE'),
+  ('matplotlib.path',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\path.py',
+   'PYMODULE'),
+  ('matplotlib.hatch',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\hatch.py',
+   'PYMODULE'),
+  ('matplotlib.bezier',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\bezier.py',
+   'PYMODULE'),
+  ('matplotlib.transforms',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\transforms.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.nosetester',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\testing\\_private\\nosetester.py',
+   'PYMODULE'),
+  ('numpy.testing._private.noseclasses',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\testing\\_private\\noseclasses.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core.machar',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\machar.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('numpy.compat._inspect',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\compat\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('numpy.testing._private.decorators',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\testing\\_private\\decorators.py',
+   'PYMODULE'),
+  ('numpy.testing._private.parameterized',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\testing\\_private\\parameterized.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.financial',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\financial.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.dual',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\dual.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('matplotlib.backends',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\backends\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_template',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\backends\\backend_template.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_svg',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\backends\\backend_svg.py',
+   'PYMODULE'),
+  ('matplotlib.mathtext',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\mathtext.py',
+   'PYMODULE'),
+  ('matplotlib._mathtext_data',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\_mathtext_data.py',
+   'PYMODULE'),
+  ('matplotlib._mathtext',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\_mathtext.py',
+   'PYMODULE'),
+  ('matplotlib.afm',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\afm.py',
+   'PYMODULE'),
+  ('pyparsing',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pyparsing.py',
+   'PYMODULE'),
+  ('matplotlib.font_manager',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\font_manager.py',
+   'PYMODULE'),
+  ('matplotlib.fontconfig_pattern',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\fontconfig_pattern.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('matplotlib.dates',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\dates.py',
+   'PYMODULE'),
+  ('matplotlib.units',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\units.py',
+   'PYMODULE'),
+  ('dateutil.tz',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\dateutil\\tz\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz.tz',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\dateutil\\tz\\tz.py',
+   'PYMODULE'),
+  ('dateutil.zoneinfo',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\dateutil\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.parser._parser',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\dateutil\\parser\\_parser.py',
+   'PYMODULE'),
+  ('dateutil.tz.win',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\dateutil\\tz\\win.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('dateutil.tz._factories',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\dateutil\\tz\\_factories.py',
+   'PYMODULE'),
+  ('dateutil.tz._common',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\dateutil\\tz\\_common.py',
+   'PYMODULE'),
+  ('six',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('dateutil',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\dateutil\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.easter',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\dateutil\\easter.py',
+   'PYMODULE'),
+  ('dateutil._version',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\dateutil\\_version.py',
+   'PYMODULE'),
+  ('dateutil.parser',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\dateutil\\parser\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.parser.isoparser',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\dateutil\\parser\\isoparser.py',
+   'PYMODULE'),
+  ('dateutil.relativedelta',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\dateutil\\relativedelta.py',
+   'PYMODULE'),
+  ('dateutil._common',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\dateutil\\_common.py',
+   'PYMODULE'),
+  ('dateutil.rrule',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\dateutil\\rrule.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_mixed',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\backends\\backend_mixed.py',
+   'PYMODULE'),
+  ('matplotlib.tight_bbox',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\tight_bbox.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsStubImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\uuid.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_ps',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\backends\\backend_ps.py',
+   'PYMODULE'),
+  ('matplotlib.texmanager',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\texmanager.py',
+   'PYMODULE'),
+  ('matplotlib.dviread',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\dviread.py',
+   'PYMODULE'),
+  ('matplotlib._text_layout',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\_text_layout.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_pgf',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\backends\\backend_pgf.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_pdf',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\backends\\backend_pdf.py',
+   'PYMODULE'),
+  ('matplotlib.type1font',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\type1font.py',
+   'PYMODULE'),
+  ('matplotlib.backends._backend_pdf_ps',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\backends\\_backend_pdf_ps.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_tkagg',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\backends\\backend_tkagg.py',
+   'PYMODULE'),
+  ('matplotlib.backends._backend_tk',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\backends\\_backend_tk.py',
+   'PYMODULE'),
+  ('matplotlib.backend_tools',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\backend_tools.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.filedialog',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\filedialog.py',
+   'PYMODULE'),
+  ('tkinter.dialog',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\dialog.py',
+   'PYMODULE'),
+  ('tkinter.simpledialog',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\simpledialog.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_webagg',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\backends\\backend_webagg.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_webagg_core',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\backends\\backend_webagg_core.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_agg',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\backends\\backend_agg.py',
+   'PYMODULE'),
+  ('matplotlib.ticker',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\ticker.py',
+   'PYMODULE'),
+  ('matplotlib.widgets',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\widgets.py',
+   'PYMODULE'),
+  ('matplotlib.patches',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\patches.py',
+   'PYMODULE'),
+  ('matplotlib._enums',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\_enums.py',
+   'PYMODULE'),
+  ('matplotlib.text',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\text.py',
+   'PYMODULE'),
+  ('matplotlib.offsetbox',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\offsetbox.py',
+   'PYMODULE'),
+  ('matplotlib.textpath',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\textpath.py',
+   'PYMODULE'),
+  ('matplotlib.lines',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\lines.py',
+   'PYMODULE'),
+  ('matplotlib.markers',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\markers.py',
+   'PYMODULE'),
+  ('matplotlib.colors',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\colors.py',
+   'PYMODULE'),
+  ('matplotlib._color_data',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\_color_data.py',
+   'PYMODULE'),
+  ('matplotlib.cm',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\cm.py',
+   'PYMODULE'),
+  ('matplotlib._cm_listed',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\_cm_listed.py',
+   'PYMODULE'),
+  ('matplotlib._cm',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\_cm.py',
+   'PYMODULE'),
+  ('matplotlib.scale',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\scale.py',
+   'PYMODULE'),
+  ('matplotlib.mlab',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\mlab.py',
+   'PYMODULE'),
+  ('matplotlib.projections',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\projections\\__init__.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\mpl_toolkits\\mplot3d\\__init__.py',
+   'PYMODULE'),
+  ('mpl_toolkits', '-', 'PYMODULE'),
+  ('mpl_toolkits.mplot3d.axes3d',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\mpl_toolkits\\mplot3d\\axes3d.py',
+   'PYMODULE'),
+  ('matplotlib.tri.triangulation',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\tri\\triangulation.py',
+   'PYMODULE'),
+  ('matplotlib.tri',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\tri\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.tri.triplot',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\tri\\triplot.py',
+   'PYMODULE'),
+  ('matplotlib.tri.tripcolor',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\tri\\tripcolor.py',
+   'PYMODULE'),
+  ('matplotlib.tri.trirefine',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\tri\\trirefine.py',
+   'PYMODULE'),
+  ('matplotlib.tri.triinterpolate',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\tri\\triinterpolate.py',
+   'PYMODULE'),
+  ('matplotlib.tri.tritools',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\tri\\tritools.py',
+   'PYMODULE'),
+  ('matplotlib.tri.tricontour',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\tri\\tricontour.py',
+   'PYMODULE'),
+  ('matplotlib.contour',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\contour.py',
+   'PYMODULE'),
+  ('matplotlib.blocking_input',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\blocking_input.py',
+   'PYMODULE'),
+  ('matplotlib.tri.trifinder',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\tri\\trifinder.py',
+   'PYMODULE'),
+  ('matplotlib.axes._base',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\axes\\_base.py',
+   'PYMODULE'),
+  ('matplotlib.spines',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\spines.py',
+   'PYMODULE'),
+  ('matplotlib.axis',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\axis.py',
+   'PYMODULE'),
+  ('matplotlib.container',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\container.py',
+   'PYMODULE'),
+  ('matplotlib.collections',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\collections.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.axis3d',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\mpl_toolkits\\mplot3d\\axis3d.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.art3d',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\mpl_toolkits\\mplot3d\\art3d.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.proj3d',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\mpl_toolkits\\mplot3d\\proj3d.py',
+   'PYMODULE'),
+  ('matplotlib.projections.polar',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\projections\\polar.py',
+   'PYMODULE'),
+  ('matplotlib.projections.geo',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\projections\\geo.py',
+   'PYMODULE'),
+  ('matplotlib.axes',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\axes\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.axes._axes',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\axes\\_axes.py',
+   'PYMODULE'),
+  ('matplotlib.axes._secondary_axes',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\axes\\_secondary_axes.py',
+   'PYMODULE'),
+  ('matplotlib.table',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\table.py',
+   'PYMODULE'),
+  ('matplotlib.streamplot',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\streamplot.py',
+   'PYMODULE'),
+  ('matplotlib.stackplot',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\stackplot.py',
+   'PYMODULE'),
+  ('matplotlib.quiver',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\quiver.py',
+   'PYMODULE'),
+  ('matplotlib.legend',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\legend.py',
+   'PYMODULE'),
+  ('matplotlib.legend_handler',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\legend_handler.py',
+   'PYMODULE'),
+  ('matplotlib.category',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\category.py',
+   'PYMODULE'),
+  ('matplotlib.axes._subplots',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\axes\\_subplots.py',
+   'PYMODULE'),
+  ('matplotlib.artist',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\artist.py',
+   'PYMODULE'),
+  ('matplotlib.gridspec',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\gridspec.py',
+   'PYMODULE'),
+  ('matplotlib._layoutgrid',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\_layoutgrid.py',
+   'PYMODULE'),
+  ('matplotlib.tight_layout',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\tight_layout.py',
+   'PYMODULE'),
+  ('matplotlib.figure',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\figure.py',
+   'PYMODULE'),
+  ('matplotlib._constrained_layout',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\_constrained_layout.py',
+   'PYMODULE'),
+  ('matplotlib.backend_bases',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\backend_bases.py',
+   'PYMODULE'),
+  ('matplotlib.backend_managers',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\backend_managers.py',
+   'PYMODULE'),
+  ('matplotlib.docstring',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\docstring.py',
+   'PYMODULE'),
+  ('matplotlib.cbook',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\cbook\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib._api.deprecation',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\_api\\deprecation.py',
+   'PYMODULE'),
+  ('matplotlib._pylab_helpers',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\_pylab_helpers.py',
+   'PYMODULE'),
+  ('matplotlib.style',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\style\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.style.core',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\style\\core.py',
+   'PYMODULE'),
+  ('matplotlib.rcsetup',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\rcsetup.py',
+   'PYMODULE'),
+  ('matplotlib.animation',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\animation.py',
+   'PYMODULE'),
+  ('matplotlib._animation_data',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\_animation_data.py',
+   'PYMODULE'),
+  ('matplotlib._api',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\_api\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.image',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\image.py',
+   'PYMODULE'),
+  ('matplotlib.colorbar',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\colorbar.py',
+   'PYMODULE'),
+  ('cycler',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cycler.py',
+   'PYMODULE'),
+  ('matplotlib',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\__init__.py',
+   'PYMODULE'),
+  ('certifi',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\resources.py',
+   'PYMODULE'),
+  ('matplotlib._version',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\matplotlib\\_version.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('cv2',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cv2\\__init__.py',
+   'PYMODULE'),
+  ('cv2.version',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cv2\\version.py',
+   'PYMODULE'),
+  ('cv2.data',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cv2\\data\\__init__.py',
+   'PYMODULE'),
+  ('numpy',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'C:\\Users\\Renz '
+   'Campita\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE')])
